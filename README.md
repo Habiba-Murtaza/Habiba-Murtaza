@@ -1,18 +1,10 @@
 
+<!-- GitHub Profile Banner -->
 <p align="center">
-  <img
-    src="banner.png"
-    alt="Habiba Murtaza - Computer Science Student and Aspiring Web Developer"
-    width="100%"
-  />
+  <img src="./banner.png" alt="Habiba Murtaza GitHub Banner" width="100%" />
 </p>
 
-<h1 align="center">Habiba Murtaza</h1>
-
-<h3 align="center">
-  Computer Science Student | Aspiring Web Developer
-</h3>
-
+<!-- Name and Introduction -->
 <h1 align="center">Habiba Murtaza</h1>
 
 <h3 align="center">
@@ -23,6 +15,7 @@
   Learning, building, and growing through code.
 </p>
 
+<!-- Coding Animation -->
 <p align="center">
   <img
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
