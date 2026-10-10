@@ -1,69 +1,57 @@
-
-<!-- GitHub Profile Banner -->
+```html
+<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="./banner.png" alt="Habiba Murtaza GitHub Banner" width="100%" />
+  <img src="./banner.png" alt="Habiba Murtaza Banner" width="100%" />
 </p>
 
-<!-- Name and Introduction -->
 <h1 align="center">Habiba Murtaza</h1>
 
-<h3 align="center">
-  Computer Science Student | Aspiring Web Developer
-</h3>
+<h3 align="center">Computer Science Student | Aspiring Web Developer</h3>
 
 <p align="center">
   Learning, building, and growing through code.
 </p>
 
-<!-- Coding Animation -->
 <p align="center">
-  <img
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    alt="Coding animation"
-    width="280"
-  />
+  <a href="https://github.com/Habiba-Murtaza">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github" alt="GitHub Profile" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-2563EB?style=flat" alt="Web Development" />
+  <img src="https://img.shields.io/badge/Always-Learning-2E8B57?style=flat" alt="Always Learning" />
 </p>
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
-I'm a Computer Science student interested in web development,
-programming, and software development.
+I'm a Computer Science student interested in **web development, programming, and software development**.
 
-I enjoy learning new concepts, exploring different technologies,
-and applying my knowledge through practical projects.
+- 💻 Exploring web technologies and programming languages.
+- 🌱 Learning ASP.NET Core and improving my development skills.
+- 🧠 Strengthening my problem-solving and programming fundamentals.
+- 🚀 Applying what I learn through practical projects.
 
-I'm continuously working to improve my programming and problem-solving skills.
+---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
-**Programming Languages**
-- C
-- C++
-- Java
-- Python
-- C#
+| Category | Skills |
+|---|---|
+| **Programming Languages** | C, C++, Java, Python, C# |
+| **Web Development** | HTML, CSS, JavaScript, Bootstrap |
+| **Computer Science** | OOP, Data Structures, Database Systems, Computer Networks |
+| **Tools** | Git, GitHub |
+| **Design** | Graphic Design, Web Design Fundamentals |
 
-**Web Development**
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Web Development Fundamentals
+---
 
-**Other Technical Knowledge**
-- Object-Oriented Programming (OOP)
-- Data Structures
-- Database Systems
-- Computer Networks
-- Git & GitHub
+## 🌱 Currently Learning
 
-**Design**
-- Graphic Design
-- Web Design Fundamentals
+- ASP.NET Core
+- Web development and responsive design
+- Practical programming projects
 
-## Currently Studying
+## 📚 Current Coursework
 
 - Information Security
 - Theory of Automata
@@ -72,49 +60,51 @@ I'm continuously working to improve my programming and problem-solving skills.
 - Multivariable Calculus
 - Statistics and Probability Theory
 
-## Currently Learning
+---
 
-- ASP.NET Core
-- Improving web development skills
-- Building practical programming projects
-
-## Certifications
+## 🎓 Certifications
 
 - Web Development Certificate
 - Graphic Design Certificate
-- Forage Job Simulation: Developing an AI-Powered Financial Chatbot
+- Forage Job Simulation — Developing an AI-Powered Financial Chatbot
 
-## Academic Background
+## 🏫 Academic Background
 
 Computer Science coursework includes:
 
-- Programming Fundamentals
-- Object-Oriented Programming
-- Database Systems
-- Operating Systems
-- Computer Networks
-- Discrete Structures
-- Artificial Intelligence
-- Software Engineering
-- Web Technologies
-- Digital Logic Design
-
-## GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Habiba-Murtaza&show_icons=true&theme=default&hide_border=true"
-    alt="GitHub statistics"
-  />
-</p>
-
-## Contact
-
-- Email: http.protocoll@gmail.com
-- GitHub: <a href="https://github.com/Habiba-Murtaza">Visit my profile</a>
+Programming Fundamentals · Object-Oriented Programming · Database Systems · Operating Systems · Computer Networks · Discrete Structures · Artificial Intelligence · Software Engineering · Web Technologies · Digital Logic Design
 
 ---
 
+## 📊 GitHub Statistics
+
 <p align="center">
-  Building skills one project at a time.
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Habiba-Murtaza&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub Statistics"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habiba-Murtaza&layout=compact&theme=github_dark&hide_border=true"
+    alt="Most Used Languages"
+    height="165"
+  />
 </p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Habiba-Murtaza">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:http.protocoll@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Building skills one project at a time.</i>
+</p>
+```
