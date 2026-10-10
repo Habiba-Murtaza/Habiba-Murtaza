@@ -1,4 +1,18 @@
 
+<p align="center">
+  <img
+    src="banner.png"
+    alt="Habiba Murtaza - Computer Science Student and Aspiring Web Developer"
+    width="100%"
+  />
+</p>
+
+<h1 align="center">Habiba Murtaza</h1>
+
+<h3 align="center">
+  Computer Science Student | Aspiring Web Developer
+</h3>
+
 <h1 align="center">Habiba Murtaza</h1>
 
 <h3 align="center">
