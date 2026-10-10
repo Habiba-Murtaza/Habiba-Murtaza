@@ -127,9 +127,6 @@ I enjoy understanding how technology works, exploring new tools, and transformin
 - Theory of Automata
 - Advanced Programming
 - Software Requirements Engineering
-- Multivariable Calculus
-- Statistics & Probability
-
     </td>
   </tr>
 </table>
